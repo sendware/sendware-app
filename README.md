@@ -1,6 +1,5 @@
-# sendware.io
+# sendware-app
 
-Fast, secure, and cross-platform E2EE file transfers for all your devices.
+Reserved placeholder for a future public Sendware client artifact registry.
 
-This repo for:
-official public client artifacts and release metadata
+Current delivery automation does not publish client artifacts or release metadata here. The active client release lanes live in `client` and currently upload GitHub Actions artifacts only.
